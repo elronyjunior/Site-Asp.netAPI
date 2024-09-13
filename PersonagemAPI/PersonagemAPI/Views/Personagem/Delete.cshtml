@@ -1,0 +1,97 @@
+﻿@model PersonagemAPI.Models.Personagem
+
+@{
+    ViewBag.Title = "Delete";
+}
+<hr />
+<h3 class="mt-2 mb-2">Gostaria de deletar @Model.Nome?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <div class="card">
+            <div class="card-header">
+                <h4>Detalhes de @Model.Nome</h4>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-4">
+                        @Html.DisplayNameFor(model => model.ID)
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.ID)
+                    </dd>
+                    <dt class="col-sm-4">
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.Nome)
+                    </dd>
+
+                    <dt class="col-sm-4">
+                        @Html.DisplayNameFor(model => model.Sexo)
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.Sexo)
+                    </dd>
+
+                    <dt class="col-sm-4">
+                        @Html.DisplayNameFor(model => model.Classe)
+                    </dt>
+                    <dd class="col-sm-8">
+                        @Html.DisplayFor(model => model.Classe)
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-secondary" })
+
+        </div>
+    }
+</div>
+<style>
+    h2 {
+        color: #d1751c;
+        font-weight: 500;
+        font-family: "Nerko One", cursive;
+        font-size: 55px;
+        margin-top: 30px;
+    }
+    h3 {
+        color: #767ddd;
+        font-weight: 500;
+        font-family: "Nerko One", cursive;
+        font-size: 55px;
+        margin-top: 30px;
+    }
+    th {
+        color: #f76501;
+        font-size: 20px;
+        font-family: "Nerko One", cursive;
+        font-weight: 700;
+    }
+    .btn {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-family: "Nerko One", cursive;
+    }
+
+    h4 {
+        font-weight: 700;
+        margin-top: -10px;
+        font-family: "Nerko One", cursive;
+        color: #f76501;
+        font-size: 35px;
+    }
+
+    .intro {
+        margin-top: 20px;
+    }
+</style>

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<PersonagemAPI.Models.Personagem>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Personagems</h2>
+
+<p class="mt-2 mb-2">
+    @Html.ActionLink("Adicionar", "Create", null, new { @class = "btn btn-success" })
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Classe)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sexo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Classe)
+            </td>
+            <td>
+                @Html.ActionLink("Detalhes", "Details", new { id = item.ID }, new { @class = "btn btn-secondary btn-sm" })
+                @Html.ActionLink("Editar", "Edit", new { id = item.ID }, new { @class = "btn btn-warning btn-sm" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class = "btn btn-danger btn-sm" })
+            </td>
+        </tr>
+    }
+
+</table>
+<style>
+    h2 {
+        color: #767ddd;
+        font-weight: 500;
+        font-family: "Nerko One", cursive;
+        font-size: 55px;
+        margin-top: 30px;
+    }
+
+    th {
+        color: #d1751c;
+        font-size: 20px;
+        font-family: "Nerko One", cursive;
+        font-weight: 700;
+    }
+
+    p  {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-family: "Nerko One", cursive;
+        color: #d1751c;
+    }
+    a {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-family: "Nerko One", cursive;
+        color: #d1751c;
+    }
+
+    h4 {
+        font-weight: 700;
+        margin-top: -10px;
+        font-family: "Nerko One", cursive;
+        color: #d1751c;
+        font-size: 35px;
+    }
+
+    .intro {
+        margin-top: 20px;
+    }
+</style>

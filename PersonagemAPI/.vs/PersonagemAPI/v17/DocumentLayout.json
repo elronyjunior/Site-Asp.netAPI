@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\personagem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\personagem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\personagem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\personagem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\personagem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\personagem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\personagem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\personagem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\personagem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\personagem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\controllers\\api\\personagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\controllers\\api\\personagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\controllers\\personagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\controllers\\personagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|c:\\users\\elron\\desktop\\web_api\\personagemapi\\personagemapi\\models\\adonet.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2DB0A39A-027D-41FE-9213-A287920365C0}|PersonagemAPI\\PersonagemAPI.csproj|solutionrelative:personagemapi\\models\\adonet.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T01:10:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T01:10:04.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T01:06:39.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Details.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Personagem\\Details.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Details.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Personagem\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:59:15.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Create.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Personagem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Create.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Personagem\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAE8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:48:09.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "PersonagemAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "PersonagemAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:40:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Web.config",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Web.config",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Web.config",
+              "RelativeToolTip": "PersonagemAPI\\Web.config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T23:39:58.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T01:10:09.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:39:55.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Web.config",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Web.config",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T23:39:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Personagem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Index.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Personagem\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:38:00.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Personagem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Edit.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Personagem\\Edit.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T00:06:02.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Views\\Personagem\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Views\\Personagem\\Delete.cshtml",
+              "RelativeToolTip": "PersonagemAPI\\Views\\Personagem\\Delete.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAFMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T00:18:25.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonagemController.cs",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Controllers\\PersonagemController.cs",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Controllers\\PersonagemController.cs",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Controllers\\PersonagemController.cs",
+              "RelativeToolTip": "PersonagemAPI\\Controllers\\PersonagemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:37:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonagemController.cs",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Controllers\\API\\PersonagemController.cs",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Controllers\\API\\PersonagemController.cs",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Controllers\\API\\PersonagemController.cs",
+              "RelativeToolTip": "PersonagemAPI\\Controllers\\API\\PersonagemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:36:59.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adonet.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Models\\adonet.edmx",
+              "RelativeDocumentMoniker": "PersonagemAPI\\Models\\adonet.edmx",
+              "ToolTip": "C:\\Users\\elron\\Desktop\\web_api\\PersonagemAPI\\PersonagemAPI\\Models\\adonet.edmx [Diagram1]",
+              "RelativeToolTip": "PersonagemAPI\\Models\\adonet.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-12T23:34:34.703Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
